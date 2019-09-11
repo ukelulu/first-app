@@ -22,6 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
 *Hello world
 no no no
 yes change
+=======
+>>>>>>> parent of 1ae62fc... Update README.md
